@@ -23,15 +23,4 @@
   "engines": {
     "node": ">= 0.4.x"
   },
-  "_id": "cluster-log@0.1.2",
-  "devDependencies": {},
-  "optionalDependencies": {},
-  "_engineSupported": true,
-  "_npmVersion": "1.1.4",
-  "_nodeVersion": "v0.6.12",
-  "_defaultsLoaded": true,
-  "_from": "/Users/inspirex/git/github-forks/cluster-log",
-  "dist": {
-    "shasum": "1aff040b6c454a94a4a165e324106c4ca06c11fd"
-  }
-}
+ }
