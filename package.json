@@ -1,9 +1,9 @@
 {
     "name": "cluster-log"
-  , "version": "0.1.1"
+  , "version": "0.1.2"
   , "description": "Cluster logging plugin"
   , "keywords": ["cluster", "redis", "log", "logger", "express"]
-  , "author": "TJ Holowaychuk <tj@learnboost.com>"
+  , "author": { "name": "TJ Holowaychuk", "email": "tj@learnboost.com" }
   , "dependencies": {
       "redis": "0.5.x"
     , "express": "2.x"
@@ -12,4 +12,13 @@
   }
   , "main": "index"
   , "engines": { "node": ">= 0.4.0" }
+  , "_id": "cluster-log@1.1.2"
+  , "devDependencies": {}
+  , "optionalDependencies": {}
+  , "_engineSupported": true
+  , "_npmVersion": "1.1.4"
+  , "_nodeVersion": "v0.6.12"
+  , "_defaultsLoaded": true
+  , "_from": "cluster-log@>= 1.1.1"
 }
+
