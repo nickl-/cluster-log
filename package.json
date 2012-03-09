@@ -1,24 +1,37 @@
 {
-    "name": "cluster-log"
-  , "version": "0.1.2"
-  , "description": "Cluster logging plugin"
-  , "keywords": ["cluster", "redis", "log", "logger", "express"]
-  , "author": { "name": "TJ Holowaychuk", "email": "tj@learnboost.com" }
-  , "dependencies": {
-      "redis": ">= 0.5.x"
-    , "express": ">= 2.x"
-    , "jade": ">= 0.10.x"
-    , "stylus": ">= 0.11.x"
+  "name": "cluster-log",
+  "version": "0.1.2",
+  "description": "Cluster logging plugin",
+  "keywords": [
+    "cluster",
+    "redis",
+    "log",
+    "logger",
+    "express"
+  ],
+  "author": {
+    "name": "TJ Holowaychuk",
+    "email": "tj@learnboost.com"
+  },
+  "dependencies": {
+    "redis": ">= 0.7.1",
+    "express": ">= 2.5.8",
+    "jade": ">= 0.20.3",
+    "stylus": ">= 0.24.0"
+  },
+  "main": "./index.js",
+  "engines": {
+    "node": ">= 0.4.x"
+  },
+  "_id": "cluster-log@0.1.2",
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "_engineSupported": true,
+  "_npmVersion": "1.1.4",
+  "_nodeVersion": "v0.6.12",
+  "_defaultsLoaded": true,
+  "_from": "/Users/inspirex/git/github-forks/cluster-log",
+  "dist": {
+    "shasum": "1aff040b6c454a94a4a165e324106c4ca06c11fd"
   }
-  , "main": "index"
-  , "engines": { "node": ">= 0.4.0" }
-  , "_id": "cluster-log@1.1.2"
-  , "devDependencies": {}
-  , "optionalDependencies": {}
-  , "_engineSupported": true
-  , "_npmVersion": "1.1.4"
-  , "_nodeVersion": "v0.6.12"
-  , "_defaultsLoaded": true
-  , "_from": "cluster-log@>= 1.1.1"
 }
-
